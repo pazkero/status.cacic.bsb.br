@@ -1,31 +1,60 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: pazkero # Your GitHub organization or username, where this repository lives
+repo: status.cacic.bsb.br # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: [VM] Agnus Dei
+    check: "tcp-ping"
+    url: 75.119.128.234
+    port: 443
+  - name: Alumni
+    url: https://alumni2.cacic.bsb.br
+  - name: Website
+    url: https://cacic.bsb.br
+  - name: SIGAA
+    url: https://sig.unb.br/sigaa/
+  - name: SEI
+    url: https://sei.unb.br/
+  - name: Moodle
+    url: https://aprender3.unb.br/login/index.php
+  - name: Teams
+    url: https://teams.microsoft.com/
+  - name: Ouvidoria
+    url: https://ouvidoria.unb.br/
+  - name: Restaurante
+    url: https://ru.unb.br/index.php/cardapio
+  - name: Departamento
+    url: http://cca.unb.br/
+  - name: '[Yandex] inbound mail'
+    check: "tcp-ping"
+    url: mx.yandex.net
+    port: 25
+    icon: https://favicons.githubusercontent.com/mail.yandex.com
+  - name: '[Yandex] outbound mail'
+    check: "tcp-ping"
+    url: smtp.yandex.com
+    port: 587
+    icon: https://favicons.githubusercontent.com/mail.yandex.com
+  - name: Legal Aid
+    url: https://adac.bsb.br
+  - name: TI Aid
+    url: https://moubootaurlegends.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.cacic.bsb.br
+  name: CACiC Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Monitora os serviços do Centro Acadêmico de Contabilidade da UnB.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: CACiC
+      href: https://cacic.bsb.br/
+    - title: CCA
+      href: http://cca.unb.br/index.php/graduacao
+    - title: RU
+      href: https://ru.unb.br/index.php/cardapio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
