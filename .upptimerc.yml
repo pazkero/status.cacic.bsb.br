@@ -8,9 +8,11 @@ sites:
     url: 75.119.128.234
     port: 443
   - name: Alumni
-    url: https://alumni2.cacic.bsb.br
+    url: https://alumni.cacic.bsb.br
   - name: Website
     url: https://cacic.bsb.br
+  - name: Website (Beta)
+    url: https://staging.cacic.bsb.br
   - name: SIGAA
     url: https://sig.unb.br/sigaa/
   - name: SEI
