@@ -79,19 +79,19 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://favicons.githubusercontent.com/sig.unb.br",
     "slug": "sigaa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2189,
-    "timeDay": 1285,
-    "timeWeek": 1999,
-    "timeMonth": 2189,
-    "timeYear": 2189,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 2112,
+    "timeDay": 1275,
+    "timeWeek": 1917,
+    "timeMonth": 2112,
+    "timeYear": 2112,
     "dailyMinutesDown": {
-      "2022-04-07": 0
+      "2022-04-07": 18
     }
   },
   {
