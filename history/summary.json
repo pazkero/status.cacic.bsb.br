@@ -157,19 +157,19 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://favicons.githubusercontent.com/ouvidoria.unb.br",
     "slug": "ouvidoria",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1688,
-    "timeDay": 1985,
-    "timeWeek": 1582,
-    "timeMonth": 1688,
-    "timeYear": 1688,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1694,
+    "timeDay": 1880,
+    "timeWeek": 1603,
+    "timeMonth": 1694,
+    "timeYear": 1694,
     "dailyMinutesDown": {
-      "2022-04-08": 0
+      "2022-04-08": 13
     }
   },
   {
