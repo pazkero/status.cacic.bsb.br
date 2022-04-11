@@ -42,6 +42,9 @@ sites:
   - name: Conselho de TI
     url: https://moubootaurlegends.org
 
+assignees:
+  - pazkero
+  
 status-website:
   cname: status.cacic.bsb.br
   name: CACiC Status
