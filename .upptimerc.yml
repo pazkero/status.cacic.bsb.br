@@ -11,8 +11,6 @@ sites:
     url: https://alumni.cacic.bsb.br
   - name: Website
     url: https://cacic.bsb.br
-  - name: Website (Beta)
-    url: https://staging.cacic.bsb.br
   - name: SIGAA
     url: https://sig.unb.br/sigaa/
   - name: SEI
