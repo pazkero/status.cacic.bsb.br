@@ -315,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2023-01-10": 1062,
+      "2023-01-10": 1072,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -544,19 +544,19 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 189,
-    "timeWeek": 169,
-    "timeMonth": 188,
+    "timeDay": 208,
+    "timeWeek": 176,
+    "timeMonth": 189,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2023-01-10": 2
+      "2023-01-10": 11
     }
   },
   {
@@ -564,19 +564,19 @@
     "url": "smtp.yandex.com",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-outbound-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 257,
-    "timeWeek": 193,
-    "timeMonth": 237,
+    "timeDay": 261,
+    "timeWeek": 202,
+    "timeMonth": 238,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 10
     }
   },
   {
