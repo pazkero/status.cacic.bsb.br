@@ -247,11 +247,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
     "status": "up",
-    "uptime": "90.63%",
+    "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.63%",
+    "uptimeYear": "90.65%",
     "time": 2168,
     "timeDay": 1385,
     "timeWeek": 3593,
@@ -304,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "down",
-    "uptime": "35.30%",
+    "uptime": "35.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.30%",
+    "uptimeYear": "35.22%",
     "time": 1470,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2023-01-10": 205,
+      "2023-01-10": 1062,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -544,10 +544,10 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
@@ -555,16 +555,18 @@
     "timeWeek": 169,
     "timeMonth": 188,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 2
+    }
   },
   {
     "name": "[Yandex] outbound mail",
     "url": "smtp.yandex.com",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-outbound-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -573,7 +575,9 @@
     "timeWeek": 193,
     "timeMonth": 237,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "Conselho Legal",
