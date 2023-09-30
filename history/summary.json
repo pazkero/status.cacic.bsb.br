@@ -39,7 +39,7 @@
     "timeDay": 1831,
     "timeWeek": 1925,
     "timeMonth": 1743,
-    "timeYear": 4117,
+    "timeYear": 4100,
     "dailyMinutesDown": {
       "2023-07-27": 56,
       "2023-05-24": 31,
@@ -66,7 +66,7 @@
     "timeDay": 1066,
     "timeWeek": 1196,
     "timeMonth": 1156,
-    "timeYear": 2784,
+    "timeYear": 2787,
     "dailyMinutesDown": {
       "2023-07-27": 25,
       "2023-05-24": 30,
@@ -91,7 +91,7 @@
     "timeDay": 3200,
     "timeWeek": 4557,
     "timeMonth": 3081,
-    "timeYear": 3013,
+    "timeYear": 3015,
     "dailyMinutesDown": {
       "2023-09-30": 23,
       "2023-09-08": 17,
@@ -196,7 +196,7 @@
     "timeDay": 1199,
     "timeWeek": 1935,
     "timeMonth": 1802,
-    "timeYear": 1968,
+    "timeYear": 1969,
     "dailyMinutesDown": {
       "2023-09-03": 45,
       "2023-05-31": 26,
@@ -251,7 +251,7 @@
     "timeDay": 16965,
     "timeWeek": 5776,
     "timeMonth": 4918,
-    "timeYear": 3609,
+    "timeYear": 3612,
     "dailyMinutesDown": {
       "2023-08-07": 34,
       "2023-07-26": 21,
@@ -588,19 +588,19 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "87.18%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.84%",
-    "time": 1473,
-    "timeDay": 1795,
-    "timeWeek": 2750,
-    "timeMonth": 2517,
+    "time": 1472,
+    "timeDay": 1745,
+    "timeWeek": 2706,
+    "timeMonth": 2492,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2023-09-30": 158,
+      "2023-09-30": 171,
       "2023-09-29": 197,
       "2023-09-28": 54,
       "2023-05-16": 108,
@@ -663,7 +663,7 @@
     "timeDay": 1436,
     "timeWeek": 1414,
     "timeMonth": 1318,
-    "timeYear": 2939,
+    "timeYear": 2942,
     "dailyMinutesDown": {
       "2023-07-27": 23,
       "2023-04-14": 97,
@@ -688,7 +688,7 @@
     "timeDay": 432,
     "timeWeek": 461,
     "timeMonth": 493,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   }
 ]
