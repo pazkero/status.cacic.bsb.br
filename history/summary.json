@@ -13,7 +13,7 @@
     "time": 119,
     "timeDay": 95,
     "timeWeek": 124,
-    "timeMonth": 126,
+    "timeMonth": 127,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2023-07-27": 56,
@@ -38,7 +38,7 @@
     "time": 4167,
     "timeDay": 1831,
     "timeWeek": 1925,
-    "timeMonth": 1743,
+    "timeMonth": 1739,
     "timeYear": 4100,
     "dailyMinutesDown": {
       "2023-07-27": 56,
@@ -65,7 +65,7 @@
     "time": 2798,
     "timeDay": 1066,
     "timeWeek": 1196,
-    "timeMonth": 1156,
+    "timeMonth": 1162,
     "timeYear": 2787,
     "dailyMinutesDown": {
       "2023-07-27": 25,
@@ -90,7 +90,7 @@
     "time": 2880,
     "timeDay": 3200,
     "timeWeek": 4557,
-    "timeMonth": 3081,
+    "timeMonth": 3110,
     "timeYear": 3015,
     "dailyMinutesDown": {
       "2023-09-30": 23,
@@ -150,7 +150,7 @@
     "time": 1811,
     "timeDay": 866,
     "timeWeek": 1657,
-    "timeMonth": 1310,
+    "timeMonth": 1325,
     "timeYear": 1762,
     "dailyMinutesDown": {
       "2023-08-20": 486,
@@ -195,7 +195,7 @@
     "time": 1798,
     "timeDay": 1199,
     "timeWeek": 1935,
-    "timeMonth": 1802,
+    "timeMonth": 1818,
     "timeYear": 1969,
     "dailyMinutesDown": {
       "2023-09-03": 45,
@@ -230,7 +230,7 @@
     "time": 117,
     "timeDay": 38,
     "timeWeek": 50,
-    "timeMonth": 65,
+    "timeMonth": 60,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-06-28": 117
@@ -250,7 +250,7 @@
     "time": 3210,
     "timeDay": 16965,
     "timeWeek": 5776,
-    "timeMonth": 4918,
+    "timeMonth": 5006,
     "timeYear": 3612,
     "dailyMinutesDown": {
       "2023-08-07": 34,
@@ -273,15 +273,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "30.82%",
+    "uptime": "30.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.77%",
+    "uptimeYear": "18.80%",
     "time": 1907,
     "timeDay": 5101,
     "timeWeek": 2724,
-    "timeMonth": 2138,
+    "timeMonth": 2078,
     "timeYear": 2299,
     "dailyMinutesDown": {
       "2023-07-24": 650,
@@ -579,8 +579,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   },
   {
@@ -590,17 +589,17 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.84%",
     "time": 1472,
-    "timeDay": 1745,
+    "timeDay": 1620,
     "timeWeek": 2706,
-    "timeMonth": 2492,
+    "timeMonth": 2517,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2023-09-30": 171,
+      "2023-09-30": 158,
       "2023-09-29": 197,
       "2023-09-28": 54,
       "2023-05-16": 108,
@@ -626,7 +625,7 @@
     "time": 187,
     "timeDay": 146,
     "timeWeek": 184,
-    "timeMonth": 187,
+    "timeMonth": 188,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -644,7 +643,7 @@
     "time": 216,
     "timeDay": 166,
     "timeWeek": 209,
-    "timeMonth": 214,
+    "timeMonth": 216,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -662,7 +661,7 @@
     "time": 2970,
     "timeDay": 1436,
     "timeWeek": 1414,
-    "timeMonth": 1318,
+    "timeMonth": 1328,
     "timeYear": 2942,
     "dailyMinutesDown": {
       "2023-07-27": 23,
