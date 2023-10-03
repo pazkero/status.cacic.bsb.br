@@ -273,11 +273,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "31.07%",
+    "uptime": "31.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.33%",
+    "uptimeYear": "19.34%",
     "time": 1912,
     "timeDay": 1458,
     "timeWeek": 2197,
@@ -577,8 +577,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -593,7 +592,7 @@
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.75%",
     "time": 1512,
-    "timeDay": 2548,
+    "timeDay": 2626,
     "timeWeek": 2336,
     "timeMonth": 2349,
     "timeYear": 1616,
