@@ -132,8 +132,7 @@
       "2022-11-12": 37,
       "2022-11-11": 64,
       "2022-10-15": 34,
-      "2022-10-09": 31,
-      "2022-10-06": 44
+      "2022-10-09": 31
     }
   },
   {
@@ -273,11 +272,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "31.44%",
+    "uptime": "31.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.15%",
+    "uptimeYear": "20.16%",
     "time": 1921,
     "timeDay": 2224,
     "timeWeek": 2040,
@@ -574,8 +573,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   },
   {
@@ -585,17 +583,17 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "78.99%",
-    "uptimeWeek": "85.03%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "99.62%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "85.16%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.63%",
     "time": 1553,
-    "timeDay": 2190,
+    "timeDay": 2086,
     "timeWeek": 2271,
     "timeMonth": 2265,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2023-10-05": 291,
+      "2023-10-05": 278,
       "2023-10-04": 118,
       "2023-10-03": 279,
       "2023-10-02": 208,
