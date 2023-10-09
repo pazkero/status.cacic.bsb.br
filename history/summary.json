@@ -39,7 +39,7 @@
     "timeDay": 2001,
     "timeWeek": 1911,
     "timeMonth": 1809,
-    "timeYear": 4056,
+    "timeYear": 4059,
     "dailyMinutesDown": {
       "2023-07-27": 56,
       "2023-05-24": 31,
@@ -91,7 +91,7 @@
     "timeDay": 2098,
     "timeWeek": 2359,
     "timeMonth": 3046,
-    "timeYear": 3012,
+    "timeYear": 3014,
     "dailyMinutesDown": {
       "2023-10-08": 18,
       "2023-10-07": 16,
@@ -133,8 +133,7 @@
       "2022-11-29": 22,
       "2022-11-12": 37,
       "2022-11-11": 64,
-      "2022-10-15": 34,
-      "2022-10-09": 31
+      "2022-10-15": 34
     }
   },
   {
@@ -152,7 +151,7 @@
     "timeDay": 991,
     "timeWeek": 1190,
     "timeMonth": 1355,
-    "timeYear": 1753,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2023-08-20": 486,
       "2023-06-29": 31,
@@ -197,7 +196,7 @@
     "timeDay": 1225,
     "timeWeek": 1313,
     "timeMonth": 1768,
-    "timeYear": 1966,
+    "timeYear": 1968,
     "dailyMinutesDown": {
       "2023-10-06": 244,
       "2023-09-03": 45,
@@ -249,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 3000,
+    "time": 3229,
     "timeDay": 1325,
     "timeWeek": 2146,
     "timeMonth": 3919,
-    "timeYear": 3601,
+    "timeYear": 3606,
     "dailyMinutesDown": {
       "2023-08-07": 34,
       "2023-07-26": 21,
@@ -275,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "31.81%",
+    "uptime": "31.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.96%",
+    "uptimeYear": "20.99%",
     "time": 1988,
     "timeDay": 1311,
     "timeWeek": 2630,
@@ -573,8 +572,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -590,9 +588,9 @@
     "uptimeYear": "99.48%",
     "time": 1588,
     "timeDay": 2855,
-    "timeWeek": 2108,
+    "timeWeek": 2122,
     "timeMonth": 2217,
-    "timeYear": 1702,
+    "timeYear": 1703,
     "dailyMinutesDown": {
       "2023-10-08": 215,
       "2023-10-07": 311,
@@ -665,7 +663,7 @@
     "timeDay": 1239,
     "timeWeek": 1249,
     "timeMonth": 1316,
-    "timeYear": 2911,
+    "timeYear": 2914,
     "dailyMinutesDown": {
       "2023-07-27": 23,
       "2023-04-14": 97,
