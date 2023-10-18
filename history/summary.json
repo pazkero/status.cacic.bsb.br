@@ -277,7 +277,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.44%",
+    "uptimeYear": "23.45%",
     "time": 2006,
     "timeDay": 1304,
     "timeWeek": 1322,
@@ -562,8 +562,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 1440
+      "2022-10-19": 1440
     }
   },
   {
@@ -572,18 +571,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "76.99%",
-    "uptimeWeek": "82.57%",
-    "uptimeMonth": "92.52%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.59%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 1701,
     "timeDay": 2182,
     "timeWeek": 2173,
     "timeMonth": 2197,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2023-10-17": 331,
+      "2023-10-17": 319,
       "2023-10-16": 204,
       "2023-10-15": 272,
       "2023-10-14": 197,
@@ -595,7 +594,7 @@
       "2023-10-08": 215,
       "2023-10-07": 311,
       "2023-10-06": 242,
-      "2023-10-05": 26
+      "2023-10-05": 94
     }
   },
   {
