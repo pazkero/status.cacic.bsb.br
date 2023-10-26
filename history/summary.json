@@ -273,11 +273,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "33.88%",
+    "uptime": "33.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.75%",
+    "uptimeYear": "25.76%",
     "time": 2081,
     "timeDay": 1053,
     "timeWeek": 2647,
@@ -562,11 +562,11 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "74.34%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "92.90%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "74.30%",
+    "uptimeWeek": "83.28%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 1764,
     "timeDay": 2015,
@@ -574,7 +574,7 @@
     "timeMonth": 2191,
     "timeYear": 1892,
     "dailyMinutesDown": {
-      "2023-10-26": 195,
+      "2023-10-26": 196,
       "2023-10-25": 280,
       "2023-10-24": 183,
       "2023-10-23": 151,
@@ -586,7 +586,7 @@
       "2023-10-17": 319,
       "2023-10-16": 204,
       "2023-10-15": 272,
-      "2023-10-14": 95
+      "2023-10-14": 75
     }
   },
   {
