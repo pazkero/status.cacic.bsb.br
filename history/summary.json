@@ -278,7 +278,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.90%",
+    "uptimeYear": "26.91%",
     "time": 2083,
     "timeDay": 1734,
     "timeWeek": 1283,
@@ -559,19 +559,19 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "82.46%",
-    "uptimeWeek": "80.73%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "82.36%",
+    "uptimeWeek": "80.72%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 1794,
     "timeDay": 1916,
     "timeWeek": 2280,
     "timeMonth": 2141,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2023-10-30": 177,
+      "2023-10-30": 178,
       "2023-10-29": 312,
       "2023-10-28": 183,
       "2023-10-27": 388,
@@ -583,7 +583,7 @@
       "2023-10-21": 240,
       "2023-10-20": 295,
       "2023-10-19": 281,
-      "2023-10-18": 140
+      "2023-10-18": 115
     }
   },
   {
@@ -653,18 +653,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moubootaurlegends.org.ico",
     "slug": "conselho-de-ti",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 519,
     "timeDay": 1307,
     "timeWeek": 698,
     "timeMonth": 553,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-10-30": 1
+      "2023-10-30": 28
     }
   }
 ]
