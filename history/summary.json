@@ -278,7 +278,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.32%",
+    "uptimeYear": "27.33%",
     "time": 2082,
     "timeDay": 1172,
     "timeWeek": 1198,
@@ -557,13 +557,13 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "87.12%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "87.09%",
+    "uptimeWeek": "79.72%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
-    "time": 1795,
+    "time": 1796,
     "timeDay": 1866,
     "timeWeek": 2119,
     "timeMonth": 2130,
@@ -581,8 +581,7 @@
       "2023-10-23": 151,
       "2023-10-22": 199,
       "2023-10-21": 240,
-      "2023-10-20": 295,
-      "2023-10-19": 21
+      "2023-10-20": 295
     }
   },
   {
