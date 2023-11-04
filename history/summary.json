@@ -39,7 +39,7 @@
     "timeDay": 2006,
     "timeWeek": 1971,
     "timeMonth": 1933,
-    "timeYear": 3861,
+    "timeYear": 3809,
     "dailyMinutesDown": {
       "2023-07-27": 56,
       "2023-05-24": 31,
@@ -66,7 +66,7 @@
     "timeDay": 911,
     "timeWeek": 1022,
     "timeMonth": 1095,
-    "timeYear": 2567,
+    "timeYear": 2565,
     "dailyMinutesDown": {
       "2023-07-27": 25,
       "2023-05-24": 30,
@@ -91,7 +91,7 @@
     "timeDay": 1966,
     "timeWeek": 2421,
     "timeMonth": 2376,
-    "timeYear": 2995,
+    "timeYear": 2998,
     "dailyMinutesDown": {
       "2023-10-29": 19,
       "2023-10-08": 18,
@@ -151,7 +151,7 @@
     "timeDay": 915,
     "timeWeek": 1015,
     "timeMonth": 1089,
-    "timeYear": 1704,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2023-08-20": 486,
       "2023-06-29": 31,
@@ -196,7 +196,7 @@
     "timeDay": 1532,
     "timeWeek": 1527,
     "timeMonth": 1456,
-    "timeYear": 1968,
+    "timeYear": 1970,
     "dailyMinutesDown": {
       "2023-10-06": 244,
       "2023-09-03": 45,
@@ -252,7 +252,7 @@
     "timeDay": 1378,
     "timeWeek": 1525,
     "timeMonth": 2462,
-    "timeYear": 3632,
+    "timeYear": 3638,
     "dailyMinutesDown": {
       "2023-08-07": 34,
       "2023-07-26": 21,
@@ -274,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "34.85%",
+    "uptime": "34.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.09%",
+    "uptimeYear": "28.11%",
     "time": 2106,
     "timeDay": 1172,
     "timeWeek": 1408,
@@ -546,8 +546,7 @@
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
-      "2022-11-05": 1440,
-      "2022-11-04": 1440
+      "2022-11-05": 1440
     }
   },
   {
@@ -558,14 +557,14 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "80.66%",
-    "uptimeWeek": "81.35%",
+    "uptimeWeek": "81.60%",
     "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 1810,
-    "timeDay": 1996,
-    "timeWeek": 2040,
-    "timeMonth": 2117,
-    "timeYear": 1927,
+    "timeDay": 2063,
+    "timeWeek": 2047,
+    "timeMonth": 2118,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2023-11-03": 278,
       "2023-11-02": 281,
@@ -632,7 +631,7 @@
     "timeDay": 1194,
     "timeWeek": 1248,
     "timeMonth": 1258,
-    "timeYear": 2792,
+    "timeYear": 2762,
     "dailyMinutesDown": {
       "2023-07-27": 23,
       "2023-04-14": 97,
@@ -657,7 +656,7 @@
     "timeDay": 549,
     "timeWeek": 670,
     "timeMonth": 553,
-    "timeYear": 509,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2023-10-30": 50
     }
