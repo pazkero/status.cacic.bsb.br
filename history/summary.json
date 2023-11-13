@@ -40,7 +40,7 @@
     "timeDay": 2013,
     "timeWeek": 1982,
     "timeMonth": 1911,
-    "timeYear": 3561,
+    "timeYear": 3531,
     "dailyMinutesDown": {
       "2023-11-06": 99,
       "2023-07-27": 56,
@@ -68,7 +68,7 @@
     "timeDay": 749,
     "timeWeek": 1074,
     "timeMonth": 1051,
-    "timeYear": 2335,
+    "timeYear": 2297,
     "dailyMinutesDown": {
       "2023-11-06": 98,
       "2023-07-27": 25,
@@ -94,7 +94,7 @@
     "timeDay": 1733,
     "timeWeek": 2334,
     "timeMonth": 2297,
-    "timeYear": 2956,
+    "timeYear": 2958,
     "dailyMinutesDown": {
       "2023-10-29": 19,
       "2023-10-08": 18,
@@ -152,7 +152,7 @@
     "timeDay": 1124,
     "timeWeek": 1008,
     "timeMonth": 1025,
-    "timeYear": 1692,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2023-08-20": 486,
       "2023-06-29": 31,
@@ -196,7 +196,7 @@
     "timeDay": 1248,
     "timeWeek": 1482,
     "timeMonth": 1472,
-    "timeYear": 1963,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2023-10-06": 244,
       "2023-09-03": 45,
@@ -248,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 3060,
+    "time": 3280,
     "timeDay": 5183,
     "timeWeek": 2019,
     "timeMonth": 2432,
-    "timeYear": 3583,
+    "timeYear": 3588,
     "dailyMinutesDown": {
       "2023-08-07": 34,
       "2023-07-26": 21,
@@ -544,19 +544,19 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "82.10%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
-    "time": 1808,
+    "time": 1809,
     "timeDay": 2537,
     "timeWeek": 1722,
     "timeMonth": 2002,
-    "timeYear": 1916,
+    "timeYear": 1917,
     "dailyMinutesDown": {
-      "2023-11-13": 256,
+      "2023-11-13": 257,
       "2023-11-12": 265,
       "2023-11-11": 351,
       "2023-11-10": 358,
@@ -568,7 +568,7 @@
       "2023-11-04": 225,
       "2023-11-03": 278,
       "2023-11-02": 281,
-      "2023-11-01": 58
+      "2023-11-01": 23
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeDay": 1526,
     "timeWeek": 1325,
     "timeMonth": 1269,
-    "timeYear": 2595,
+    "timeYear": 2585,
     "dailyMinutesDown": {
       "2023-11-06": 97,
       "2023-07-27": 23,
