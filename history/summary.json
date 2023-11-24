@@ -268,11 +268,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "37.01%",
+    "uptime": "37.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.57%",
+    "uptimeYear": "33.59%",
     "time": 2103,
     "timeDay": 2304,
     "timeWeek": 2456,
@@ -520,8 +520,7 @@
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
-      "2022-11-25": 1440,
-      "2022-11-24": 1440
+      "2022-11-25": 1440
     }
   },
   {
@@ -531,17 +530,17 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "84.32%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "74.41%",
+    "uptimeWeek": "84.58%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "99.42%",
     "time": 1862,
-    "timeDay": 2749,
+    "timeDay": 2792,
     "timeWeek": 2501,
-    "timeMonth": 2064,
+    "timeMonth": 2066,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2023-11-23": 375,
+      "2023-11-23": 369,
       "2023-11-22": 141,
       "2023-11-21": 47,
       "2023-11-20": 238,
@@ -553,7 +552,7 @@
       "2023-11-14": 249,
       "2023-11-13": 256,
       "2023-11-12": 265,
-      "2023-11-11": 266
+      "2023-11-11": 285
     }
   },
   {
