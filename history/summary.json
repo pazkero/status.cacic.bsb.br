@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.43%",
+    "uptimeWeek": "84.49%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "99.40%",
     "time": 119,
@@ -42,7 +42,7 @@
     "timeDay": 1914,
     "timeWeek": 1806,
     "timeMonth": 1871,
-    "timeYear": 3004,
+    "timeYear": 3000,
     "dailyMinutesDown": {
       "2023-11-19": 37,
       "2023-11-06": 99,
@@ -68,7 +68,7 @@
     "timeDay": 967,
     "timeWeek": 1161,
     "timeMonth": 1285,
-    "timeYear": 2046,
+    "timeYear": 2045,
     "dailyMinutesDown": {
       "2023-11-19": 36,
       "2023-11-06": 98,
@@ -93,7 +93,7 @@
     "timeDay": 2215,
     "timeWeek": 2400,
     "timeMonth": 2999,
-    "timeYear": 3009,
+    "timeYear": 3011,
     "dailyMinutesDown": {
       "2023-12-21": 21,
       "2023-12-17": 23,
@@ -154,7 +154,7 @@
     "timeDay": 871,
     "timeWeek": 1193,
     "timeMonth": 1117,
-    "timeYear": 1640,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2023-12-07": 48,
       "2023-08-20": 486,
@@ -199,7 +199,7 @@
     "timeDay": 1216,
     "timeWeek": 1531,
     "timeMonth": 1491,
-    "timeYear": 1948,
+    "timeYear": 1949,
     "dailyMinutesDown": {
       "2023-12-07": 47,
       "2023-11-27": 20,
@@ -236,7 +236,7 @@
     "timeDay": 122,
     "timeWeek": 61,
     "timeMonth": 60,
-    "timeYear": 99,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2023-06-28": 117
     }
@@ -252,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.32%",
-    "time": 3158,
+    "time": 3458,
     "timeDay": 5534,
     "timeWeek": 3109,
     "timeMonth": 3732,
-    "timeYear": 3654,
+    "timeYear": 3658,
     "dailyMinutesDown": {
       "2023-12-07": 47,
       "2023-08-07": 34,
@@ -512,19 +512,19 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "84.69%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "99.44%",
     "time": 1876,
     "timeDay": 2226,
     "timeWeek": 1558,
     "timeMonth": 1944,
     "timeYear": 1950,
     "dailyMinutesDown": {
-      "2023-12-21": 121,
+      "2023-12-21": 122,
       "2023-12-20": 156,
       "2023-12-19": 226,
       "2023-12-18": 332,
@@ -537,7 +537,7 @@
       "2023-12-11": 375,
       "2023-12-10": 246,
       "2023-12-09": 221,
-      "2023-12-08": 57
+      "2023-12-08": 16
     }
   },
   {
@@ -614,7 +614,7 @@
     "timeDay": 464,
     "timeWeek": 503,
     "timeMonth": 510,
-    "timeYear": 509,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2023-10-30": 50
     }
