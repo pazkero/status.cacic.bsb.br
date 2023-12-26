@@ -279,7 +279,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "42.33%",
+    "uptimeYear": "42.35%",
     "time": 2014,
     "timeDay": 1322,
     "timeWeek": 1747,
@@ -496,8 +496,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   },
   {
@@ -507,13 +506,13 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "83.39%",
+    "uptimeDay": "76.26%",
+    "uptimeWeek": "84.11%",
     "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 1877,
     "timeDay": 1674,
-    "timeWeek": 1463,
+    "timeWeek": 1466,
     "timeMonth": 1722,
     "timeYear": 1930,
     "dailyMinutesDown": {
