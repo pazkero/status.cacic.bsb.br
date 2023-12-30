@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cacic.bsb.br.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -131,8 +131,7 @@
       "2023-01-27": 48,
       "2023-01-24": 22,
       "2023-01-23": 62,
-      "2023-01-07": 22,
-      "2022-12-30": 22
+      "2023-01-07": 22
     }
   },
   {
@@ -273,11 +272,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "40.55%",
+    "uptime": "40.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "43.43%",
+    "uptimeYear": "43.44%",
     "time": 1997,
     "timeDay": 1090,
     "timeWeek": 1362,
@@ -490,8 +489,7 @@
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
-      "2022-12-31": 1440,
-      "2022-12-30": 1440
+      "2022-12-31": 1440
     }
   },
   {
@@ -500,18 +498,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "84.60%",
-    "uptimeWeek": "79.66%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.67%",
+    "uptimeDay": "79.34%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "93.10%",
+    "uptimeYear": "99.43%",
     "time": 1846,
     "timeDay": 2323,
     "timeWeek": 1579,
     "timeMonth": 1714,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2023-12-29": 221,
+      "2023-12-30": 74,
+      "2023-12-29": 223,
       "2023-12-28": 183,
       "2023-12-27": 350,
       "2023-12-26": 341,
