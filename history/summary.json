@@ -42,7 +42,7 @@
     "timeDay": 1606,
     "timeWeek": 2012,
     "timeMonth": 1859,
-    "timeYear": 2824,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2023-11-19": 37,
       "2023-11-06": 99,
@@ -67,7 +67,7 @@
     "timeDay": 1387,
     "timeWeek": 1545,
     "timeMonth": 1247,
-    "timeYear": 1920,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2023-11-19": 36,
       "2023-11-06": 98,
@@ -91,7 +91,7 @@
     "timeDay": 2142,
     "timeWeek": 2462,
     "timeMonth": 2308,
-    "timeYear": 3023,
+    "timeYear": 3026,
     "dailyMinutesDown": {
       "2024-01-09": 31,
       "2023-12-21": 21,
@@ -149,7 +149,7 @@
     "timeDay": 879,
     "timeWeek": 1107,
     "timeMonth": 1102,
-    "timeYear": 1624,
+    "timeYear": 1626,
     "dailyMinutesDown": {
       "2023-12-07": 48,
       "2023-08-20": 486,
@@ -191,7 +191,7 @@
     "timeDay": 1213,
     "timeWeek": 1477,
     "timeMonth": 1529,
-    "timeYear": 1939,
+    "timeYear": 1940,
     "dailyMinutesDown": {
       "2023-12-07": 47,
       "2023-11-27": 20,
@@ -248,7 +248,7 @@
     "timeDay": 1660,
     "timeWeek": 3763,
     "timeMonth": 3632,
-    "timeYear": 3492,
+    "timeYear": 3498,
     "dailyMinutesDown": {
       "2024-01-01": 36,
       "2023-12-07": 47,
@@ -482,11 +482,11 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "76.56%",
-    "uptimeWeek": "78.52%",
-    "uptimeMonth": "92.22%",
+    "uptimeDay": "76.90%",
+    "uptimeWeek": "78.57%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 1839,
     "timeDay": 1164,
@@ -494,7 +494,7 @@
     "timeMonth": 1567,
     "timeYear": 1894,
     "dailyMinutesDown": {
-      "2024-01-13": 336,
+      "2024-01-13": 331,
       "2024-01-12": 318,
       "2024-01-11": 283,
       "2024-01-10": 373,
