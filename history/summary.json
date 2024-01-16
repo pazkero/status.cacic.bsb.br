@@ -8,7 +8,7 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.40%",
     "time": 119,
     "timeDay": 96,
@@ -239,7 +239,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -271,11 +271,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "42.09%",
+    "uptime": "42.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.09%",
+    "uptimeYear": "48.10%",
     "time": 1985,
     "timeDay": 1107,
     "timeWeek": 1841,
@@ -471,8 +471,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -482,9 +481,9 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "80.08%",
-    "uptimeWeek": "80.35%",
-    "uptimeMonth": "92.08%",
+    "uptimeDay": "81.01%",
+    "uptimeWeek": "80.49%",
+    "uptimeMonth": "92.04%",
     "uptimeYear": "99.34%",
     "time": 1839,
     "timeDay": 2465,
@@ -492,7 +491,7 @@
     "timeMonth": 1631,
     "timeYear": 1900,
     "dailyMinutesDown": {
-      "2024-01-15": 287,
+      "2024-01-15": 273,
       "2024-01-14": 284,
       "2024-01-13": 331,
       "2024-01-12": 318,
@@ -503,7 +502,7 @@
       "2024-01-07": 280,
       "2024-01-06": 325,
       "2024-01-05": 220,
-      "2024-01-04": 214
+      "2024-01-04": 248
     }
   },
   {
