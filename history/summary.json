@@ -467,12 +467,12 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "81.59%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "85.67%",
+    "uptimeWeek": "81.58%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.41%",
     "time": 1818,
     "timeDay": 1182,
     "timeWeek": 1508,
@@ -491,7 +491,7 @@
       "2024-01-15": 273,
       "2024-01-14": 284,
       "2024-01-13": 331,
-      "2024-01-12": 65
+      "2024-01-12": 30
     }
   },
   {
