@@ -23,8 +23,7 @@
       "2023-11-06": 99,
       "2023-07-27": 56,
       "2023-05-24": 31,
-      "2023-04-14": 26,
-      "2023-01-25": 34
+      "2023-04-14": 26
     }
   },
   {
@@ -48,8 +47,7 @@
       "2023-11-06": 99,
       "2023-07-27": 56,
       "2023-05-24": 31,
-      "2023-04-14": 85,
-      "2023-01-25": 71
+      "2023-04-14": 85
     }
   },
   {
@@ -236,7 +234,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -267,11 +265,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "42.87%",
+    "uptime": "42.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.55%",
+    "uptimeYear": "50.57%",
     "time": 1962,
     "timeDay": 1325,
     "timeWeek": 1614,
@@ -458,8 +456,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -468,18 +465,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "85.90%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.67%",
+    "uptimeDay": "86.78%",
+    "uptimeWeek": "81.40%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.41%",
     "time": 1820,
     "timeDay": 1269,
     "timeWeek": 1512,
     "timeMonth": 1671,
     "timeYear": 1883,
     "dailyMinutesDown": {
-      "2024-01-24": 205,
+      "2024-01-24": 192,
       "2024-01-23": 320,
       "2024-01-22": 271,
       "2024-01-21": 155,
@@ -490,7 +487,8 @@
       "2024-01-16": 191,
       "2024-01-15": 273,
       "2024-01-14": 284,
-      "2024-01-13": 247
+      "2024-01-13": 331,
+      "2024-01-12": 2
     }
   },
   {
