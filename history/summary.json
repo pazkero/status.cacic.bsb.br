@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "43.07%",
+    "uptime": "43.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -461,11 +461,11 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "73.13%",
+    "uptimeDay": "73.11%",
     "uptimeWeek": "80.73%",
-    "uptimeMonth": "92.32%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "99.36%",
     "time": 1838,
     "timeDay": 1270,
@@ -485,8 +485,7 @@
       "2024-01-18": 359,
       "2024-01-17": 163,
       "2024-01-16": 191,
-      "2024-01-15": 273,
-      "2024-01-14": 21
+      "2024-01-15": 273
     }
   },
   {
