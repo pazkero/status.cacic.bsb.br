@@ -442,13 +442,13 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "76.12%",
-    "uptimeWeek": "87.81%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "76.09%",
+    "uptimeWeek": "87.80%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "99.31%",
-    "time": 1821,
+    "time": 1822,
     "timeDay": 3804,
     "timeWeek": 1771,
     "timeMonth": 1668,
@@ -469,7 +469,7 @@
       "2024-01-30": 327,
       "2024-01-29": 275,
       "2024-01-28": 268,
-      "2024-01-27": 309
+      "2024-01-27": 283
     }
   },
   {
@@ -514,7 +514,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adac.bsb.br.ico",
     "slug": "conselho-legal",
     "status": "down",
-    "uptime": "94.72%",
+    "uptime": "94.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -525,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2024-03-04": 1276,
+      "2024-03-04": 1303,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
