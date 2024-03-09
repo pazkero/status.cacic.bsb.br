@@ -277,7 +277,7 @@
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "88.15%",
-    "uptimeYear": "61.34%",
+    "uptimeYear": "61.35%",
     "time": 1895,
     "timeDay": 2077,
     "timeWeek": 1887,
@@ -438,12 +438,12 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "82.57%",
+    "uptimeDay": "86.87%",
+    "uptimeWeek": "82.60%",
     "uptimeMonth": "95.06%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1787,
     "timeDay": 1249,
     "timeWeek": 1618,
@@ -466,8 +466,7 @@
       "2024-02-03": 276,
       "2024-02-02": 241,
       "2024-02-01": 223,
-      "2024-01-31": 232,
-      "2024-01-30": 32
+      "2024-01-31": 232
     }
   },
   {
@@ -512,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adac.bsb.br.ico",
     "slug": "conselho-legal",
     "status": "down",
-    "uptime": "94.13%",
+    "uptime": "94.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -523,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-03-09": 314,
+      "2024-03-09": 357,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
