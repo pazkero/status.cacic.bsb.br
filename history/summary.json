@@ -277,7 +277,7 @@
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "88.15%",
-    "uptimeYear": "61.28%",
+    "uptimeYear": "61.29%",
     "time": 1895,
     "timeDay": 2077,
     "timeWeek": 1887,
@@ -430,8 +430,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -440,10 +439,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "95.08%",
+    "uptime": "99.66%",
+    "uptimeDay": "83.37%",
+    "uptimeWeek": "82.48%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "99.35%",
     "time": 1818,
     "timeDay": 1210,
@@ -451,7 +450,7 @@
     "timeMonth": 1575,
     "timeYear": 1818,
     "dailyMinutesDown": {
-      "2024-03-08": 252,
+      "2024-03-08": 239,
       "2024-03-07": 128,
       "2024-03-06": 311,
       "2024-03-05": 197,
@@ -467,7 +466,7 @@
       "2024-02-02": 241,
       "2024-02-01": 223,
       "2024-01-31": 232,
-      "2024-01-30": 32
+      "2024-01-30": 78
     }
   },
   {
@@ -512,17 +511,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adac.bsb.br.ico",
     "slug": "conselho-legal",
     "status": "down",
-    "uptime": "94.16%",
+    "uptime": "94.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.29%",
     "time": 2402,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1500,
     "dailyMinutesDown": {
+      "2024-03-09": 70,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
