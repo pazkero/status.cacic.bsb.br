@@ -282,7 +282,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "64.84%",
+    "uptimeYear": "64.85%",
     "time": 1889,
     "timeDay": 1515,
     "timeWeek": 1649,
@@ -433,9 +433,9 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "79.57%",
-    "uptimeWeek": "81.63%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "80.43%",
+    "uptimeWeek": "81.75%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 1791,
     "timeDay": 1339,
@@ -443,7 +443,7 @@
     "timeMonth": 1662,
     "timeYear": 1808,
     "dailyMinutesDown": {
-      "2024-03-21": 293,
+      "2024-03-21": 281,
       "2024-03-20": 382,
       "2024-03-19": 133,
       "2024-03-18": 228,
@@ -455,7 +455,7 @@
       "2024-03-12": 248,
       "2024-03-11": 345,
       "2024-03-10": 281,
-      "2024-03-09": 234
+      "2024-03-09": 255
     }
   },
   {
@@ -504,14 +504,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "85.74%",
+    "uptimeYear": "85.73%",
     "time": 2320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2024-03-22": 1,
+      "2024-03-22": 73,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
