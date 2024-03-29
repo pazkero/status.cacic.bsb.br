@@ -208,8 +208,7 @@
       "2023-05-14": 141,
       "2023-04-29": 48,
       "2023-04-11": 38,
-      "2023-03-31": 144,
-      "2023-03-30": 19
+      "2023-03-31": 144
     }
   },
   {
@@ -276,11 +275,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "47.35%",
+    "uptime": "47.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "66.74%",
+    "uptimeYear": "66.76%",
     "time": 2002,
     "timeDay": 2577,
     "timeWeek": 4937,
@@ -415,8 +414,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -426,17 +424,17 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "83.92%",
-    "uptimeWeek": "83.85%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "83.90%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "99.35%",
     "time": 1792,
     "timeDay": 2524,
-    "timeWeek": 1599,
+    "timeWeek": 1602,
     "timeMonth": 1654,
     "timeYear": 1799,
     "dailyMinutesDown": {
-      "2024-03-28": 217,
+      "2024-03-28": 212,
       "2024-03-27": 181,
       "2024-03-26": 396,
       "2024-03-25": 121,
@@ -449,7 +447,7 @@
       "2024-03-18": 228,
       "2024-03-17": 245,
       "2024-03-16": 241,
-      "2024-03-15": 237
+      "2024-03-15": 264
     }
   },
   {
@@ -494,18 +492,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adac.bsb.br.ico",
     "slug": "conselho-legal",
     "status": "down",
-    "uptime": "91.53%",
+    "uptime": "91.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "83.83%",
+    "uptimeYear": "83.81%",
     "time": 2259,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2024-03-28": 1399,
+      "2024-03-29": 74,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
