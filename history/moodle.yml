@@ -1,7 +1,7 @@
 url: https://aprender3.unb.br/login/index.php
-status: up
-code: 200
-responseTime: 1488
-lastUpdated: 2024-06-16T06:26:43.311Z
+status: down
+code: 503
+responseTime: 655
+lastUpdated: 2024-06-16T07:17:10.696Z
 startTime: 2022-03-30T13:08:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
