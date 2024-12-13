@@ -35,8 +35,6 @@ sites:
     url: smtp.yandex.com
     port: 587
     icon: https://favicons.githubusercontent.com/mail.yandex.com
-  - name: Conselho Legal
-    url: https://adac.bsb.br
   - name: Conselho de TI
     url: https://moubootaurlegends.org
 
