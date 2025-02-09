@@ -22,19 +22,19 @@
     "url": "https://alumni.cacic.bsb.br",
     "icon": "https://icons.duckduckgo.com/ip3/alumni.cacic.bsb.br.ico",
     "slug": "alumni",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 3219,
-    "timeDay": 0,
-    "timeWeek": 11818,
-    "timeMonth": 8918,
-    "timeYear": 3693,
+    "time": 3217,
+    "timeDay": 1247,
+    "timeWeek": 10308,
+    "timeMonth": 8670,
+    "timeYear": 3686,
     "dailyMinutesDown": {
-      "2025-02-09": 0
+      "2025-02-09": 7
     }
   },
   {
