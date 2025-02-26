@@ -115,8 +115,7 @@
       "2024-03-12": 17,
       "2024-03-09": 19,
       "2024-02-29": 87,
-      "2024-02-28": 62,
-      "2024-02-27": 20
+      "2024-02-28": 62
     }
   },
   {
@@ -262,7 +261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "63.55%",
+    "uptime": "63.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "99.58%",
