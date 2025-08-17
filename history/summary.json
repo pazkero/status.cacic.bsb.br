@@ -54,7 +54,7 @@
     "timeDay": 4027,
     "timeWeek": 4004,
     "timeMonth": 2850,
-    "timeYear": 2509,
+    "timeYear": 2496,
     "dailyMinutesDown": {
       "2025-04-14": 46
     }
@@ -64,10 +64,10 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.17%",
     "time": 2582,
@@ -76,6 +76,7 @@
     "timeMonth": 2739,
     "timeYear": 2617,
     "dailyMinutesDown": {
+      "2025-08-17": 1,
       "2025-08-11": 32,
       "2025-08-09": 28,
       "2025-08-01": 67,
@@ -285,7 +286,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
     "status": "up",
-    "uptime": "68.57%",
+    "uptime": "68.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
