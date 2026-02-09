@@ -127,18 +127,19 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "90.06%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "90.03%",
     "uptimeWeek": "89.73%",
     "uptimeMonth": "88.28%",
-    "uptimeYear": "96.68%",
+    "uptimeYear": "96.72%",
     "time": 1148,
     "timeDay": 1107,
     "timeWeek": 1209,
     "timeMonth": 1384,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-02-08": 143,
       "2026-02-07": 101,
       "2026-02-06": 112,
@@ -233,8 +234,7 @@
       "2025-11-08": 206,
       "2025-11-07": 157,
       "2025-11-06": 190,
-      "2025-11-05": 202,
-      "2025-11-04": 197
+      "2025-11-05": 202
     }
   },
   {
@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2026-02-09": 168,
+      "2026-02-09": 199,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
