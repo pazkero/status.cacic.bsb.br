@@ -60,15 +60,15 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "82.57%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "85.87%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "79.89%",
+    "uptimeMonth": "86.21%",
     "uptimeYear": "98.20%",
-    "time": 2667,
-    "timeDay": 2501,
-    "timeWeek": 2593,
+    "time": 2668,
+    "timeDay": 2659,
+    "timeWeek": 2616,
     "timeMonth": 2653,
     "timeYear": 2720,
     "dailyMinutesDown": {
@@ -124,7 +124,7 @@
       "2026-06-12": 353,
       "2026-06-11": 62,
       "2026-06-13": 491,
-      "2026-06-14": 121
+      "2026-06-14": 141
     }
   },
   {
@@ -132,19 +132,18 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "71.19%",
-    "uptimeMonth": "81.59%",
-    "uptimeYear": "96.18%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "85.49%",
+    "uptimeWeek": "74.62%",
+    "uptimeMonth": "81.56%",
+    "uptimeYear": "96.20%",
     "time": 1217,
-    "timeDay": 1555,
+    "timeDay": 1472,
     "timeWeek": 1622,
     "timeMonth": 1920,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2026-03-03": 104,
       "2026-03-04": 105,
       "2026-03-05": 123,
       "2026-03-06": 109,
@@ -230,7 +229,7 @@
       "2026-06-11": 263,
       "2026-06-12": 344,
       "2026-06-13": 473,
-      "2026-06-14": 116
+      "2026-06-14": 131
     }
   },
   {
@@ -286,15 +285,15 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "83.92%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "86.49%",
+    "uptimeWeek": "81.23%",
+    "uptimeMonth": "86.88%",
+    "uptimeYear": "98.71%",
     "time": 2606,
-    "timeDay": 1614,
-    "timeWeek": 1769,
+    "timeDay": 1592,
+    "timeWeek": 1774,
     "timeMonth": 1870,
     "timeYear": 2385,
     "dailyMinutesDown": {
@@ -329,7 +328,7 @@
       "2026-06-12": 335,
       "2026-06-11": 52,
       "2026-06-13": 453,
-      "2026-06-14": 111
+      "2026-06-14": 121
     }
   },
   {
@@ -337,15 +336,15 @@
     "url": "https://ru.unb.br/index.php/cardapio",
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
-    "status": "up",
+    "status": "down",
     "uptime": "57.31%",
-    "uptimeDay": "84.58%",
-    "uptimeWeek": "80.89%",
-    "uptimeMonth": "82.80%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "81.89%",
+    "uptimeMonth": "83.61%",
     "uptimeYear": "26.55%",
-    "time": 1884,
-    "timeDay": 2613,
-    "timeWeek": 4295,
+    "time": 1887,
+    "timeDay": 2607,
+    "timeWeek": 2716,
     "timeMonth": 4545,
     "timeYear": 2569,
     "dailyMinutesDown": {
@@ -633,7 +632,7 @@
       "2026-06-12": 325,
       "2026-06-11": 48,
       "2026-06-13": 433,
-      "2026-06-14": 106
+      "2026-06-14": 111
     }
   },
   {
@@ -641,15 +640,15 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "81.55%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "88.49%",
+    "uptimeWeek": "82.56%",
     "uptimeMonth": "87.54%",
     "uptimeYear": "98.62%",
-    "time": 2525,
-    "timeDay": 3746,
-    "timeWeek": 4042,
+    "time": 2528,
+    "timeDay": 3679,
+    "timeWeek": 4058,
     "timeMonth": 5039,
     "timeYear": 2994,
     "dailyMinutesDown": {
@@ -703,7 +702,7 @@
       "2026-06-12": 315,
       "2026-06-11": 43,
       "2026-06-13": 414,
-      "2026-06-14": 101
+      "2026-06-14": 102
     }
   },
   {
