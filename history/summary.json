@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 110,
-    "timeWeek": 108,
+    "timeDay": 89,
+    "timeWeek": 110,
     "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2966,
-    "timeDay": 2251,
-    "timeWeek": 1642,
+    "timeDay": 3009,
+    "timeWeek": 1692,
     "timeMonth": 2508,
     "timeYear": 2932,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1915,
-    "timeDay": 1455,
-    "timeWeek": 1846,
+    "timeDay": 1479,
+    "timeWeek": 1645,
     "timeMonth": 2018,
     "timeYear": 1909,
     "dailyMinutesDown": {
@@ -62,13 +62,13 @@
     "slug": "sigaa",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "15.51%",
-    "uptimeWeek": "65.97%",
+    "uptimeDay": "32.34%",
+    "uptimeWeek": "67.39%",
     "uptimeMonth": "79.95%",
     "uptimeYear": "97.67%",
     "time": 2688,
     "timeDay": 2433,
-    "timeWeek": 2932,
+    "timeWeek": 2960,
     "timeMonth": 2793,
     "timeYear": 2731,
     "dailyMinutesDown": {
@@ -138,13 +138,13 @@
     "slug": "sei",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "56.13%",
-    "uptimeWeek": "72.40%",
+    "uptimeDay": "71.44%",
+    "uptimeWeek": "73.78%",
     "uptimeMonth": "77.02%",
     "uptimeYear": "96.02%",
     "time": 1228,
     "timeDay": 1612,
-    "timeWeek": 1593,
+    "timeWeek": 1594,
     "timeMonth": 1879,
     "timeYear": 1248,
     "dailyMinutesDown": {
@@ -243,8 +243,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 1335,
-    "timeDay": 1109,
-    "timeWeek": 1037,
+    "timeDay": 1014,
+    "timeWeek": 1048,
     "timeMonth": 1054,
     "timeYear": 1297,
     "dailyMinutesDown": {
@@ -273,7 +273,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 308,
+    "timeDay": 365,
     "timeWeek": 281,
     "timeMonth": 333,
     "timeYear": 227,
@@ -286,13 +286,13 @@
     "slug": "ouvidoria",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "57.47%",
-    "uptimeWeek": "73.21%",
-    "uptimeMonth": "82.03%",
+    "uptimeDay": "73.20%",
+    "uptimeWeek": "74.65%",
+    "uptimeMonth": "82.06%",
     "uptimeYear": "98.31%",
     "time": 2561,
     "timeDay": 1802,
-    "timeWeek": 1848,
+    "timeWeek": 1842,
     "timeMonth": 1867,
     "timeYear": 2383,
     "dailyMinutesDown": {
@@ -331,8 +331,7 @@
       "2026-06-15": 404,
       "2026-06-16": 290,
       "2026-06-18": 674,
-      "2026-06-19": 602,
-      "2026-06-20": 11
+      "2026-06-19": 602
     }
   },
   {
@@ -342,13 +341,13 @@
     "slug": "restaurante",
     "status": "up",
     "uptime": "57.40%",
-    "uptimeDay": "58.81%",
-    "uptimeWeek": "74.02%",
-    "uptimeMonth": "82.52%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "75.37%",
+    "uptimeMonth": "82.53%",
     "uptimeYear": "26.16%",
     "time": 1990,
     "timeDay": 2768,
-    "timeWeek": 2783,
+    "timeWeek": 2793,
     "timeMonth": 4488,
     "timeYear": 2649,
     "dailyMinutesDown": {
@@ -640,8 +639,7 @@
       "2026-06-15": 390,
       "2026-06-16": 286,
       "2026-06-18": 665,
-      "2026-06-19": 587,
-      "2026-06-20": 6
+      "2026-06-19": 587
     }
   },
   {
@@ -651,13 +649,13 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "60.13%",
-    "uptimeWeek": "74.82%",
+    "uptimeDay": "74.52%",
+    "uptimeWeek": "76.07%",
     "uptimeMonth": "82.93%",
     "uptimeYear": "98.24%",
     "time": 2667,
     "timeDay": 4229,
-    "timeWeek": 5650,
+    "timeWeek": 5733,
     "timeMonth": 5490,
     "timeYear": 3120,
     "dailyMinutesDown": {
@@ -715,8 +713,7 @@
       "2026-06-15": 375,
       "2026-06-16": 281,
       "2026-06-18": 655,
-      "2026-06-19": 572,
-      "2026-06-20": 1
+      "2026-06-19": 572
     }
   },
   {
@@ -731,8 +728,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 153,
-    "timeWeek": 154,
+    "timeDay": 128,
+    "timeWeek": 157,
     "timeMonth": 151,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -749,8 +746,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 155,
-    "timeWeek": 152,
+    "timeDay": 133,
+    "timeWeek": 155,
     "timeMonth": 150,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -767,8 +764,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 565,
-    "timeDay": 595,
-    "timeWeek": 433,
+    "timeDay": 436,
+    "timeWeek": 438,
     "timeMonth": 937,
     "timeYear": 555,
     "dailyMinutesDown": {
