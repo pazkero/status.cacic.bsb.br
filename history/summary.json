@@ -62,15 +62,15 @@
     "slug": "sigaa",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "62.14%",
-    "uptimeWeek": "65.44%",
-    "uptimeMonth": "71.99%",
-    "uptimeYear": "97.01%",
-    "time": 2699,
-    "timeDay": 2730,
-    "timeWeek": 2686,
-    "timeMonth": 2804,
-    "timeYear": 2728,
+    "uptimeDay": "57.82%",
+    "uptimeWeek": "65.92%",
+    "uptimeMonth": "71.79%",
+    "uptimeYear": "96.99%",
+    "time": 2694,
+    "timeDay": 2539,
+    "timeWeek": 2687,
+    "timeMonth": 2792,
+    "timeYear": 2726,
     "dailyMinutesDown": {
       "2025-07-01": 730,
       "2025-07-30": 63,
@@ -135,7 +135,7 @@
       "2026-06-24": 222,
       "2026-06-25": 794,
       "2026-06-26": 628,
-      "2026-06-27": 292
+      "2026-06-27": 380
     }
   },
   {
@@ -145,17 +145,16 @@
     "slug": "sei",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "64.53%",
-    "uptimeWeek": "66.45%",
-    "uptimeMonth": "69.30%",
+    "uptimeDay": "60.21%",
+    "uptimeWeek": "66.93%",
+    "uptimeMonth": "69.11%",
     "uptimeYear": "95.84%",
-    "time": 1235,
-    "timeDay": 1711,
-    "timeWeek": 1902,
-    "timeMonth": 1931,
+    "time": 1236,
+    "timeDay": 1669,
+    "timeWeek": 1896,
+    "timeMonth": 1925,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2026-03-28": 98,
       "2026-03-29": 194,
       "2026-03-30": 224,
       "2026-03-31": 192,
@@ -228,7 +227,7 @@
       "2026-06-24": 212,
       "2026-06-25": 774,
       "2026-06-26": 604,
-      "2026-06-27": 282
+      "2026-06-27": 366
     }
   },
   {
@@ -286,15 +285,15 @@
     "slug": "ouvidoria",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "65.19%",
-    "uptimeWeek": "67.20%",
-    "uptimeMonth": "74.51%",
-    "uptimeYear": "97.68%",
-    "time": 2646,
-    "timeDay": 2185,
-    "timeWeek": 4079,
-    "timeMonth": 2510,
-    "timeYear": 2433,
+    "uptimeDay": "60.88%",
+    "uptimeWeek": "67.69%",
+    "uptimeMonth": "74.33%",
+    "uptimeYear": "97.67%",
+    "time": 2645,
+    "timeDay": 2051,
+    "timeWeek": 4059,
+    "timeMonth": 2498,
+    "timeYear": 2431,
     "dailyMinutesDown": {
       "2025-07-17": 18,
       "2025-07-21": 35,
@@ -339,7 +338,7 @@
       "2026-06-24": 202,
       "2026-06-25": 755,
       "2026-06-26": 599,
-      "2026-06-27": 277
+      "2026-06-27": 356
     }
   },
   {
@@ -349,15 +348,15 @@
     "slug": "restaurante",
     "status": "up",
     "uptime": "82.29%",
-    "uptimeDay": "65.86%",
-    "uptimeWeek": "67.96%",
-    "uptimeMonth": "75.16%",
-    "uptimeYear": "25.54%",
-    "time": 2294,
-    "timeDay": 2900,
-    "timeWeek": 4451,
-    "timeMonth": 4370,
-    "timeYear": 2972,
+    "uptimeDay": "61.55%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "74.99%",
+    "uptimeYear": "25.53%",
+    "time": 2299,
+    "timeDay": 2751,
+    "timeWeek": 4404,
+    "timeMonth": 4342,
+    "timeYear": 2968,
     "dailyMinutesDown": {
       "2025-07-16": 18,
       "2025-07-17": 17,
@@ -655,7 +654,7 @@
       "2026-06-24": 193,
       "2026-06-25": 741,
       "2026-06-26": 589,
-      "2026-06-27": 273
+      "2026-06-27": 347
     }
   },
   {
@@ -665,15 +664,15 @@
     "slug": "departamento",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "66.48%",
-    "uptimeWeek": "68.71%",
-    "uptimeMonth": "75.73%",
-    "uptimeYear": "97.64%",
-    "time": 2957,
-    "timeDay": 14454,
-    "timeWeek": 8014,
-    "timeMonth": 6409,
-    "timeYear": 3378,
+    "uptimeDay": "62.15%",
+    "uptimeWeek": "69.19%",
+    "uptimeMonth": "75.57%",
+    "uptimeYear": "97.62%",
+    "time": 2991,
+    "timeDay": 15480,
+    "timeWeek": 8714,
+    "timeMonth": 6573,
+    "timeYear": 3411,
     "dailyMinutesDown": {
       "2025-07-16": 17,
       "2025-07-17": 17,
@@ -737,7 +736,7 @@
       "2026-06-24": 184,
       "2026-06-25": 728,
       "2026-06-26": 581,
-      "2026-06-27": 268
+      "2026-06-27": 337
     }
   },
   {
