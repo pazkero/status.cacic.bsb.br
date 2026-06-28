@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "63.77%",
+    "uptime": "99.31%",
+    "uptimeDay": "55.23%",
     "uptimeWeek": "69.74%",
-    "uptimeMonth": "71.46%",
-    "uptimeYear": "97.11%",
+    "uptimeMonth": "71.18%",
+    "uptimeYear": "97.09%",
     "time": 2694,
     "timeDay": 2582,
     "timeWeek": 2733,
@@ -134,7 +134,7 @@
       "2026-06-25": 794,
       "2026-06-26": 628,
       "2026-06-27": 507,
-      "2026-06-28": 20
+      "2026-06-28": 143
     }
   },
   {
@@ -144,10 +144,10 @@
     "slug": "sei",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "65.44%",
+    "uptimeDay": "56.90%",
     "uptimeWeek": "70.80%",
-    "uptimeMonth": "68.81%",
-    "uptimeYear": "95.93%",
+    "uptimeMonth": "68.53%",
+    "uptimeYear": "95.91%",
     "time": 1239,
     "timeDay": 1696,
     "timeWeek": 1902,
@@ -224,7 +224,7 @@
       "2026-06-25": 774,
       "2026-06-26": 604,
       "2026-06-27": 483,
-      "2026-06-28": 15
+      "2026-06-28": 138
     }
   },
   {
@@ -282,10 +282,10 @@
     "slug": "ouvidoria",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "67.11%",
+    "uptimeDay": "58.57%",
     "uptimeWeek": "71.60%",
-    "uptimeMonth": "74.06%",
-    "uptimeYear": "97.65%",
+    "uptimeMonth": "73.78%",
+    "uptimeYear": "97.62%",
     "time": 2623,
     "timeDay": 1825,
     "timeWeek": 3880,
@@ -336,7 +336,7 @@
       "2026-06-25": 755,
       "2026-06-26": 599,
       "2026-06-27": 463,
-      "2026-06-28": 10
+      "2026-06-28": 133
     }
   },
   {
@@ -346,10 +346,10 @@
     "slug": "restaurante",
     "status": "down",
     "uptime": "82.29%",
-    "uptimeDay": "68.78%",
+    "uptimeDay": "60.24%",
     "uptimeWeek": "72.41%",
-    "uptimeMonth": "74.75%",
-    "uptimeYear": "25.51%",
+    "uptimeMonth": "74.47%",
+    "uptimeYear": "25.49%",
     "time": 2331,
     "timeDay": 2991,
     "timeWeek": 4313,
@@ -653,7 +653,7 @@
       "2026-06-25": 741,
       "2026-06-26": 589,
       "2026-06-27": 444,
-      "2026-06-28": 5
+      "2026-06-28": 128
     }
   },
   {
@@ -663,10 +663,10 @@
     "slug": "departamento",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "70.39%",
+    "uptimeDay": "61.85%",
     "uptimeWeek": "73.20%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "97.61%",
+    "uptimeMonth": "75.09%",
+    "uptimeYear": "97.58%",
     "time": 3069,
     "timeDay": 13086,
     "timeWeek": 9659,
@@ -736,7 +736,7 @@
       "2026-06-25": 728,
       "2026-06-26": 581,
       "2026-06-27": 425,
-      "2026-06-28": 1
+      "2026-06-28": 124
     }
   },
   {
