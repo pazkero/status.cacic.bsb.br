@@ -50,7 +50,7 @@
     "timeDay": 3172,
     "timeWeek": 2451,
     "timeMonth": 2089,
-    "timeYear": 1925,
+    "timeYear": 1926,
     "dailyMinutesDown": {
       "2025-11-18": 178
     }
@@ -60,19 +60,18 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "55.31%",
-    "uptimeWeek": "61.52%",
-    "uptimeMonth": "68.56%",
-    "uptimeYear": "96.92%",
-    "time": 2694,
-    "timeDay": 2285,
-    "timeWeek": 2572,
+    "uptimeDay": "59.44%",
+    "uptimeWeek": "62.57%",
+    "uptimeMonth": "68.51%",
+    "uptimeYear": "96.93%",
+    "time": 2695,
+    "timeDay": 2537,
+    "timeWeek": 2481,
     "timeMonth": 2761,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2025-08-09": 28,
       "2025-08-11": 32,
       "2025-08-17": 41,
       "2025-08-22": 124,
@@ -133,7 +132,7 @@
       "2026-06-26": 628,
       "2026-06-27": 507,
       "2026-06-28": 738,
-      "2026-06-29": 553
+      "2026-06-29": 573
     }
   },
   {
@@ -141,19 +140,18 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "56.31%",
-    "uptimeWeek": "62.68%",
-    "uptimeMonth": "65.95%",
-    "uptimeYear": "95.81%",
+    "uptimeDay": "60.44%",
+    "uptimeWeek": "63.72%",
+    "uptimeMonth": "65.92%",
+    "uptimeYear": "95.83%",
     "time": 1241,
-    "timeDay": 1530,
-    "timeWeek": 1687,
+    "timeDay": 1769,
+    "timeWeek": 1686,
     "timeMonth": 1902,
-    "timeYear": 1274,
+    "timeYear": 1275,
     "dailyMinutesDown": {
-      "2026-04-05": 82,
       "2026-04-06": 225,
       "2026-04-07": 89,
       "2026-04-08": 103,
@@ -220,7 +218,7 @@
       "2026-06-26": 604,
       "2026-06-27": 483,
       "2026-06-28": 718,
-      "2026-06-29": 548
+      "2026-06-29": 563
     }
   },
   {
@@ -238,7 +236,7 @@
     "timeDay": 1313,
     "timeWeek": 1364,
     "timeMonth": 1112,
-    "timeYear": 1289,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-07-14": 55,
       "2025-08-06": 28,
@@ -268,7 +266,7 @@
     "timeDay": 313,
     "timeWeek": 236,
     "timeMonth": 266,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -276,17 +274,17 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "58.08%",
-    "uptimeWeek": "63.68%",
-    "uptimeMonth": "71.27%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "64.73%",
+    "uptimeMonth": "71.25%",
     "uptimeYear": "97.41%",
-    "time": 2630,
-    "timeDay": 1901,
-    "timeWeek": 3782,
+    "time": 2633,
+    "timeDay": 1906,
+    "timeWeek": 3875,
     "timeMonth": 2451,
-    "timeYear": 2426,
+    "timeYear": 2428,
     "dailyMinutesDown": {
       "2025-07-17": 18,
       "2025-07-21": 35,
@@ -333,7 +331,7 @@
       "2026-06-26": 599,
       "2026-06-27": 463,
       "2026-06-28": 698,
-      "2026-06-29": 534
+      "2026-06-29": 544
     }
   },
   {
@@ -341,17 +339,17 @@
     "url": "https://ru.unb.br/index.php/cardapio",
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
-    "status": "up",
-    "uptime": "82.31%",
-    "uptimeDay": "58.75%",
-    "uptimeWeek": "64.53%",
-    "uptimeMonth": "72.00%",
+    "status": "down",
+    "uptime": "82.32%",
+    "uptimeDay": "62.86%",
+    "uptimeWeek": "65.58%",
+    "uptimeMonth": "71.98%",
     "uptimeYear": "25.28%",
-    "time": 2090,
-    "timeDay": 2593,
-    "timeWeek": 4231,
+    "time": 2093,
+    "timeDay": 2556,
+    "timeWeek": 4306,
     "timeMonth": 4258,
-    "timeYear": 2983,
+    "timeYear": 2994,
     "dailyMinutesDown": {
       "2025-07-16": 18,
       "2025-07-17": 17,
@@ -651,7 +649,7 @@
       "2026-06-26": 589,
       "2026-06-27": 444,
       "2026-06-28": 684,
-      "2026-06-29": 529
+      "2026-06-29": 534
     }
   },
   {
@@ -659,19 +657,18 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "59.41%",
-    "uptimeWeek": "65.37%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "63.52%",
+    "uptimeWeek": "66.42%",
     "uptimeMonth": "72.65%",
-    "uptimeYear": "97.38%",
-    "time": 3096,
-    "timeDay": 3631,
-    "timeWeek": 8369,
+    "uptimeYear": "97.39%",
+    "time": 3100,
+    "timeDay": 3957,
+    "timeWeek": 8576,
     "timeMonth": 6754,
-    "timeYear": 3493,
+    "timeYear": 3498,
     "dailyMinutesDown": {
-      "2025-07-21": 34,
       "2025-07-26": 22,
       "2025-07-30": 97,
       "2025-07-31": 126,
@@ -733,7 +730,7 @@
       "2026-06-26": 581,
       "2026-06-27": 425,
       "2026-06-28": 669,
-      "2026-06-29": 525
+      "2026-06-29": 526
     }
   },
   {
