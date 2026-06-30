@@ -60,19 +60,18 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "28.83%",
-    "uptimeWeek": "57.94%",
-    "uptimeMonth": "66.86%",
+    "uptimeDay": "47.16%",
+    "uptimeWeek": "57.75%",
+    "uptimeMonth": "66.82%",
     "uptimeYear": "96.79%",
-    "time": 2694,
-    "timeDay": 2693,
+    "time": 2693,
+    "timeDay": 2379,
     "timeWeek": 2448,
     "timeMonth": 2762,
     "timeYear": 2723,
     "dailyMinutesDown": {
-      "2025-08-11": 32,
       "2025-08-17": 41,
       "2025-08-22": 124,
       "2025-08-21": 30,
@@ -133,7 +132,7 @@
       "2026-06-27": 507,
       "2026-06-28": 738,
       "2026-06-29": 609,
-      "2026-06-30": 685
+      "2026-06-30": 705
     }
   },
   {
@@ -141,19 +140,18 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "29.16%",
-    "uptimeWeek": "59.05%",
-    "uptimeMonth": "64.27%",
-    "uptimeYear": "95.69%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "47.83%",
+    "uptimeWeek": "58.90%",
+    "uptimeMonth": "64.24%",
+    "uptimeYear": "95.73%",
     "time": 1242,
-    "timeDay": 1869,
+    "timeDay": 1740,
     "timeWeek": 1642,
     "timeMonth": 1907,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2026-04-06": 225,
       "2026-04-07": 89,
       "2026-04-08": 103,
       "2026-04-09": 216,
@@ -220,7 +218,7 @@
       "2026-06-27": 483,
       "2026-06-28": 718,
       "2026-06-29": 599,
-      "2026-06-30": 685
+      "2026-06-30": 700
     }
   },
   {
@@ -276,14 +274,14 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "29.50%",
-    "uptimeWeek": "60.01%",
-    "uptimeMonth": "69.60%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "48.49%",
+    "uptimeWeek": "59.91%",
+    "uptimeMonth": "69.58%",
     "uptimeYear": "97.27%",
-    "time": 2634,
-    "timeDay": 1862,
+    "time": 2635,
+    "timeDay": 1860,
     "timeWeek": 3968,
     "timeMonth": 2452,
     "timeYear": 2426,
@@ -334,7 +332,7 @@
       "2026-06-27": 463,
       "2026-06-28": 698,
       "2026-06-29": 580,
-      "2026-06-30": 685
+      "2026-06-30": 695
     }
   },
   {
@@ -342,14 +340,14 @@
     "url": "https://ru.unb.br/index.php/cardapio",
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
-    "status": "up",
-    "uptime": "82.29%",
-    "uptimeDay": "29.83%",
-    "uptimeWeek": "60.81%",
-    "uptimeMonth": "70.34%",
+    "status": "down",
+    "uptime": "82.34%",
+    "uptimeDay": "49.16%",
+    "uptimeWeek": "60.76%",
+    "uptimeMonth": "70.33%",
     "uptimeYear": "25.14%",
-    "time": 2098,
-    "timeDay": 2812,
+    "time": 2102,
+    "timeDay": 2866,
     "timeWeek": 4353,
     "timeMonth": 4281,
     "timeYear": 2993,
@@ -653,7 +651,7 @@
       "2026-06-27": 444,
       "2026-06-28": 684,
       "2026-06-29": 571,
-      "2026-06-30": 685
+      "2026-06-30": 690
     }
   },
   {
@@ -661,19 +659,18 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "30.16%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "49.83%",
     "uptimeWeek": "61.60%",
     "uptimeMonth": "71.00%",
-    "uptimeYear": "97.25%",
-    "time": 3101,
-    "timeDay": 3980,
+    "uptimeYear": "97.26%",
+    "time": 3105,
+    "timeDay": 3974,
     "timeWeek": 8748,
     "timeMonth": 6368,
     "timeYear": 3499,
     "dailyMinutesDown": {
-      "2025-07-26": 22,
       "2025-07-30": 97,
       "2025-07-31": 126,
       "2025-08-07": 21,
@@ -735,7 +732,7 @@
       "2026-06-27": 425,
       "2026-06-28": 669,
       "2026-06-29": 562,
-      "2026-06-30": 685
+      "2026-06-30": 686
     }
   },
   {
