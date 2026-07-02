@@ -1,7 +1,7 @@
 url: https://ouvidoria.unb.br/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-02T13:25:49.506Z
+status: up
+code: 200
+responseTime: 1802
+lastUpdated: 2026-07-02T15:34:25.985Z
 startTime: 2022-03-30T13:08:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
