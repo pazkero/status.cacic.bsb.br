@@ -62,10 +62,10 @@
     "slug": "sigaa",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "57.91%",
+    "uptimeDay": "52.72%",
     "uptimeWeek": "58.83%",
-    "uptimeMonth": "65.51%",
-    "uptimeYear": "96.65%",
+    "uptimeMonth": "65.34%",
+    "uptimeYear": "96.64%",
     "time": 2693,
     "timeDay": 2206,
     "timeWeek": 2334,
@@ -129,7 +129,7 @@
       "2026-06-30": 855,
       "2026-07-01": 364,
       "2026-07-02": 571,
-      "2026-07-03": 35
+      "2026-07-03": 110
     }
   },
   {
@@ -139,10 +139,10 @@
     "slug": "sei",
     "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "59.51%",
+    "uptimeDay": "54.32%",
     "uptimeWeek": "59.97%",
-    "uptimeMonth": "62.98%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "62.81%",
+    "uptimeYear": "95.69%",
     "time": 1249,
     "timeDay": 1496,
     "timeWeek": 1592,
@@ -211,7 +211,7 @@
       "2026-06-30": 850,
       "2026-07-01": 354,
       "2026-07-02": 552,
-      "2026-07-03": 31
+      "2026-07-03": 106
     }
   },
   {
@@ -269,10 +269,10 @@
     "slug": "ouvidoria",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "61.95%",
+    "uptimeDay": "56.76%",
     "uptimeWeek": "61.10%",
-    "uptimeMonth": "68.40%",
-    "uptimeYear": "97.07%",
+    "uptimeMonth": "68.23%",
+    "uptimeYear": "97.06%",
     "time": 2615,
     "timeDay": 1747,
     "timeWeek": 1908,
@@ -328,7 +328,7 @@
       "2026-06-30": 845,
       "2026-07-01": 344,
       "2026-07-02": 538,
-      "2026-07-03": 10
+      "2026-07-03": 85
     }
   },
   {
@@ -338,10 +338,10 @@
     "slug": "restaurante",
     "status": "down",
     "uptime": "82.35%",
-    "uptimeDay": "63.29%",
+    "uptimeDay": "58.10%",
     "uptimeWeek": "61.91%",
-    "uptimeMonth": "69.19%",
-    "uptimeYear": "24.95%",
+    "uptimeMonth": "69.02%",
+    "uptimeYear": "24.93%",
     "time": 2145,
     "timeDay": 2572,
     "timeWeek": 2712,
@@ -650,7 +650,7 @@
       "2026-06-30": 841,
       "2026-07-01": 334,
       "2026-07-02": 523,
-      "2026-07-03": 5
+      "2026-07-03": 80
     }
   },
   {
@@ -659,11 +659,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "64.59%",
+    "uptime": "99.32%",
+    "uptimeDay": "59.40%",
     "uptimeWeek": "62.70%",
-    "uptimeMonth": "69.90%",
-    "uptimeYear": "97.13%",
+    "uptimeMonth": "69.73%",
+    "uptimeYear": "97.11%",
     "time": 2980,
     "timeDay": 11331,
     "timeWeek": 9125,
@@ -728,7 +728,7 @@
       "2026-06-30": 836,
       "2026-07-01": 324,
       "2026-07-02": 510,
-      "2026-07-03": 1
+      "2026-07-03": 75
     }
   },
   {
