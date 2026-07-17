@@ -60,17 +60,17 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "88.53%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "66.77%",
-    "uptimeYear": "96.13%",
+    "uptimeDay": "85.49%",
+    "uptimeWeek": "85.30%",
+    "uptimeMonth": "66.67%",
+    "uptimeYear": "96.12%",
     "time": 2668,
-    "timeDay": 2417,
-    "timeWeek": 2511,
-    "timeMonth": 2475,
-    "timeYear": 2685,
+    "timeDay": 2306,
+    "timeWeek": 2487,
+    "timeMonth": 2470,
+    "timeYear": 2684,
     "dailyMinutesDown": {
       "2026-06-04": 307,
       "2026-06-05": 1212,
@@ -113,7 +113,7 @@
       "2026-07-13": 447,
       "2026-07-15": 249,
       "2026-07-16": 90,
-      "2026-07-17": 165
+      "2026-07-17": 209
     }
   },
   {
@@ -121,16 +121,16 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "down",
+    "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "68.91%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "85.97%",
+    "uptimeMonth": "68.81%",
     "uptimeYear": "95.74%",
     "time": 1266,
-    "timeDay": 1617,
-    "timeWeek": 1700,
-    "timeMonth": 1741,
+    "timeDay": 1616,
+    "timeWeek": 1695,
+    "timeMonth": 1739,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2026-06-02": 535,
@@ -176,7 +176,7 @@
       "2026-07-13": 437,
       "2026-07-15": 235,
       "2026-07-16": 85,
-      "2026-07-17": 155
+      "2026-07-17": 199
     }
   },
   {
@@ -231,16 +231,16 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "69.80%",
-    "uptimeYear": "96.33%",
-    "time": 2565,
-    "timeDay": 1598,
-    "timeWeek": 1829,
-    "timeMonth": 2408,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "86.83%",
+    "uptimeWeek": "86.64%",
+    "uptimeMonth": "69.70%",
+    "uptimeYear": "96.32%",
+    "time": 2564,
+    "timeDay": 1740,
+    "timeWeek": 1840,
+    "timeMonth": 2404,
     "timeYear": 2334,
     "dailyMinutesDown": {
       "2026-06-03": 284,
@@ -285,7 +285,7 @@
       "2026-07-13": 427,
       "2026-07-15": 221,
       "2026-07-16": 80,
-      "2026-07-17": 146
+      "2026-07-17": 190
     }
   },
   {
@@ -293,17 +293,17 @@
     "url": "https://ru.unb.br/index.php/cardapio",
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "90.53%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "70.54%",
-    "uptimeYear": "96.33%",
-    "time": 2408,
-    "timeDay": 2550,
-    "timeWeek": 2873,
-    "timeMonth": 3166,
-    "timeYear": 3099,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "87.50%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "70.44%",
+    "uptimeYear": "96.32%",
+    "time": 2412,
+    "timeDay": 2512,
+    "timeWeek": 2849,
+    "timeMonth": 3158,
+    "timeYear": 3096,
     "dailyMinutesDown": {
       "2026-06-02": 515,
       "2026-06-03": 279,
@@ -348,7 +348,7 @@
       "2026-07-13": 418,
       "2026-07-15": 206,
       "2026-07-16": 75,
-      "2026-07-17": 137
+      "2026-07-17": 180
     }
   },
   {
@@ -356,16 +356,16 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "71.27%",
-    "uptimeYear": "96.42%",
-    "time": 3269,
-    "timeDay": 3573,
-    "timeWeek": 5369,
-    "timeMonth": 6693,
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "71.17%",
+    "uptimeYear": "96.41%",
+    "time": 3274,
+    "timeDay": 3619,
+    "timeWeek": 5277,
+    "timeMonth": 6659,
     "timeYear": 3771,
     "dailyMinutesDown": {
       "2026-06-02": 507,
@@ -411,7 +411,7 @@
       "2026-07-13": 408,
       "2026-07-15": 192,
       "2026-07-16": 70,
-      "2026-07-17": 127
+      "2026-07-17": 170
     }
   },
   {
