@@ -1,7 +1,7 @@
 url: http://cca.unb.br/
-status: up
-code: 200
-responseTime: 3495
-lastUpdated: 2026-08-14T05:09:40.204Z
+status: down
+code: 500
+responseTime: 944
+lastUpdated: 2026-08-14T09:17:49.146Z
 startTime: 2022-03-30T13:08:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
