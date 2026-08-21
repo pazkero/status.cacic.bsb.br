@@ -250,16 +250,16 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "97.34%",
-    "time": 2441,
-    "timeDay": 1337,
-    "timeWeek": 1974,
-    "timeMonth": 2033,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "97.33%",
+    "time": 2442,
+    "timeDay": 1714,
+    "timeWeek": 2007,
+    "timeMonth": 2039,
     "timeYear": 2318,
     "dailyMinutesDown": {
       "2026-06-23": 292,
@@ -307,7 +307,7 @@
       "2026-08-15": 51,
       "2026-08-17": 13,
       "2026-08-19": 39,
-      "2026-08-21": 1
+      "2026-08-21": 51
     }
   },
   {
