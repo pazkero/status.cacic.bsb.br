@@ -81,17 +81,17 @@
     "url": "https://sig.unb.br/sigaa/",
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "95.36%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "95.25%",
     "uptimeMonth": "90.67%",
     "uptimeYear": "97.89%",
-    "time": 2696,
-    "timeDay": 2375,
-    "timeWeek": 2462,
-    "timeMonth": 2794,
-    "timeYear": 2664,
+    "time": 2697,
+    "timeDay": 2724,
+    "timeWeek": 2519,
+    "timeMonth": 2802,
+    "timeYear": 2666,
     "dailyMinutesDown": {
       "2026-07-01": 364,
       "2026-07-02": 571,
@@ -136,7 +136,7 @@
       "2026-08-22": 50,
       "2026-08-23": 104,
       "2026-08-24": 157,
-      "2026-08-25": 67
+      "2026-08-25": 68
     }
   },
   {
@@ -144,16 +144,16 @@
     "url": "https://sei.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sei.unb.br.ico",
     "slug": "sei",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "96.15%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "91.76%",
     "uptimeYear": "97.75%",
-    "time": 1335,
-    "timeDay": 0,
-    "timeWeek": 1637,
-    "timeMonth": 1685,
+    "time": 1336,
+    "timeDay": 1847,
+    "timeWeek": 1651,
+    "timeMonth": 1687,
     "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-06-29": 590,
@@ -201,7 +201,7 @@
       "2026-08-22": 45,
       "2026-08-23": 94,
       "2026-08-24": 147,
-      "2026-08-25": 15
+      "2026-08-25": 16
     }
   },
   {
@@ -252,16 +252,16 @@
     "url": "https://ouvidoria.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ouvidoria.unb.br.ico",
     "slug": "ouvidoria",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "96.30%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "96.29%",
     "uptimeMonth": "92.49%",
     "uptimeYear": "97.48%",
-    "time": 2379,
-    "timeDay": 0,
-    "timeWeek": 1936,
-    "timeMonth": 2038,
+    "time": 2355,
+    "timeDay": 2386,
+    "timeWeek": 1963,
+    "timeMonth": 2042,
     "timeYear": 2293,
     "dailyMinutesDown": {
       "2026-06-25": 210,
@@ -311,7 +311,7 @@
       "2026-08-22": 40,
       "2026-08-23": 73,
       "2026-08-24": 137,
-      "2026-08-25": 10
+      "2026-08-25": 11
     }
   },
   {
@@ -319,16 +319,16 @@
     "url": "https://ru.unb.br/index.php/cardapio",
     "icon": "https://icons.duckduckgo.com/ip3/ru.unb.br.ico",
     "slug": "restaurante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "97.44%",
-    "time": 2787,
-    "timeDay": 0,
-    "timeWeek": 2885,
-    "timeMonth": 3158,
+    "time": 2789,
+    "timeDay": 3458,
+    "timeWeek": 2923,
+    "timeMonth": 3162,
     "timeYear": 3528,
     "dailyMinutesDown": {
       "2026-06-23": 42,
@@ -379,7 +379,7 @@
       "2026-08-22": 36,
       "2026-08-23": 69,
       "2026-08-24": 127,
-      "2026-08-25": 5
+      "2026-08-25": 6
     }
   },
   {
@@ -387,17 +387,17 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.59%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "93.52%",
-    "uptimeYear": "97.53%",
-    "time": 3895,
-    "timeDay": 0,
-    "timeWeek": 3974,
-    "timeMonth": 6554,
-    "timeYear": 4509,
+    "uptimeYear": "97.52%",
+    "time": 3910,
+    "timeDay": 10955,
+    "timeWeek": 4439,
+    "timeMonth": 6609,
+    "timeYear": 4521,
     "dailyMinutesDown": {
       "2026-06-24": 184,
       "2026-06-25": 728,
@@ -446,7 +446,7 @@
       "2026-08-22": 31,
       "2026-08-23": 64,
       "2026-08-24": 118,
-      "2026-08-25": 1
+      "2026-08-25": 2
     }
   },
   {
