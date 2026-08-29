@@ -1,7 +1,7 @@
 url: https://sig.unb.br/sigaa/
-status: up
-code: 200
-responseTime: 5778
-lastUpdated: 2026-08-28T06:45:53.984Z
+status: down
+code: 503
+responseTime: 2354
+lastUpdated: 2026-08-29T04:01:10.687Z
 startTime: 2022-03-30T13:08:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
