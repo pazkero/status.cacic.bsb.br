@@ -504,10 +504,10 @@
     "url": "smtp.yandex.com",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-outbound-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
@@ -515,7 +515,9 @@
     "timeWeek": 192,
     "timeMonth": 176,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-11": 1
+    }
   },
   {
     "name": "Conselho de TI",
