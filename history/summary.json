@@ -225,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aprender3.unb.br.ico",
     "slug": "moodle",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.36%",
+    "uptimeDay": "88.49%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.65%",
     "time": 1309,
     "timeDay": 836,
     "timeWeek": 1183,
@@ -242,7 +242,7 @@
       "2026-08-08": 49,
       "2026-10-19": 5,
       "2026-10-18": 119,
-      "2026-10-27": 1
+      "2026-10-27": 166
     }
   },
   {
@@ -417,7 +417,7 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "46.11%",
+    "uptimeWeek": "47.75%",
     "uptimeMonth": "85.93%",
     "uptimeYear": "96.57%",
     "time": 4513,
