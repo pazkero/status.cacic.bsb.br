@@ -492,18 +492,20 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
+    "time": 170,
     "timeDay": 190,
     "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-01": 1
+    }
   },
   {
     "name": "[Yandex] outbound mail",
