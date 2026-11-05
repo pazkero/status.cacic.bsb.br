@@ -14,7 +14,7 @@
     "timeDay": 152,
     "timeWeek": 132,
     "timeMonth": 127,
-    "timeYear": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -39,7 +39,7 @@
     "timeDay": 1647,
     "timeWeek": 1496,
     "timeMonth": 1692,
-    "timeYear": 2392,
+    "timeYear": 2389,
     "dailyMinutesDown": {
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -64,7 +64,7 @@
     "timeDay": 2255,
     "timeWeek": 1276,
     "timeMonth": 1272,
-    "timeYear": 1509,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2026-07-28": 0,
@@ -162,7 +162,7 @@
     "timeDay": 2146,
     "timeWeek": 1868,
     "timeMonth": 1679,
-    "timeYear": 1456,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2026-07-05": 124,
       "2026-07-06": 575,
@@ -278,7 +278,7 @@
     "timeDay": 1926,
     "timeWeek": 1881,
     "timeMonth": 1785,
-    "timeYear": 2105,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2026-07-02": 538,
       "2026-07-03": 739,
@@ -414,19 +414,18 @@
     "url": "http://cca.unb.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cca.unb.br.ico",
     "slug": "departamento",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.81%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "93.80%",
     "uptimeMonth": "84.97%",
-    "uptimeYear": "96.53%",
-    "time": 4538,
+    "uptimeYear": "96.54%",
+    "time": 4543,
     "timeDay": 3181,
     "timeWeek": 2790,
     "timeMonth": 3439,
-    "timeYear": 5153,
+    "timeYear": 5160,
     "dailyMinutesDown": {
-      "2026-07-01": 74,
       "2026-07-02": 510,
       "2026-07-03": 712,
       "2026-07-04": 346,
@@ -484,7 +483,8 @@
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 417,
-      "2026-10-30": 624
+      "2026-10-30": 624,
+      "2026-11-05": 1
     }
   },
   {
@@ -494,7 +494,7 @@
     "slug": "yandex-inbound-mail",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "83.01%",
+    "uptimeDay": "87.29%",
     "uptimeWeek": "95.73%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.92%",
