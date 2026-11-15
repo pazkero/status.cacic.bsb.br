@@ -39,7 +39,7 @@
     "timeDay": 1563,
     "timeWeek": 1621,
     "timeMonth": 1596,
-    "timeYear": 2335,
+    "timeYear": 2322,
     "dailyMinutesDown": {
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -64,7 +64,7 @@
     "timeDay": 1596,
     "timeWeek": 1338,
     "timeMonth": 1311,
-    "timeYear": 1461,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2026-07-28": 0,
@@ -162,7 +162,7 @@
     "timeDay": 1768,
     "timeWeek": 1980,
     "timeMonth": 1704,
-    "timeYear": 1472,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2026-07-05": 124,
       "2026-07-06": 575,
@@ -278,7 +278,7 @@
     "timeDay": 1855,
     "timeWeek": 1685,
     "timeMonth": 1757,
-    "timeYear": 2112,
+    "timeYear": 2114,
     "dailyMinutesDown": {
       "2026-07-02": 538,
       "2026-07-03": 739,
@@ -424,7 +424,7 @@
     "timeDay": 2659,
     "timeWeek": 2646,
     "timeMonth": 3176,
-    "timeYear": 5178,
+    "timeYear": 5184,
     "dailyMinutesDown": {
       "2026-07-02": 357,
       "2026-07-03": 712,
@@ -495,23 +495,24 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "84.93%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.88%",
     "time": 170,
-    "timeDay": 192,
-    "timeWeek": 171,
-    "timeMonth": 169,
+    "timeDay": 202,
+    "timeWeek": 176,
+    "timeMonth": 170,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-11-02": 121,
       "2026-11-01": 65,
       "2026-11-05": 178,
       "2026-11-04": 67,
-      "2026-11-14": 1
+      "2026-11-15": 12,
+      "2026-11-14": 205
     }
   },
   {
