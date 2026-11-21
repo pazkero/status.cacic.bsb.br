@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.unb.br.ico",
     "slug": "sigaa",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "97.86%",
+    "uptime": "99.53%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "97.83%",
     "time": 2662,
     "timeDay": 1896,
     "timeWeek": 2358,
@@ -144,7 +144,7 @@
       "2026-09-11": 43,
       "2026-09-27": 224,
       "2026-11-18": 498,
-      "2026-11-21": 0
+      "2026-11-21": 158
     }
   },
   {
@@ -418,7 +418,7 @@
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.07%",
-    "uptimeMonth": "87.61%",
+    "uptimeMonth": "87.97%",
     "uptimeYear": "96.41%",
     "time": 4574,
     "timeDay": 2578,
