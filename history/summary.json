@@ -39,7 +39,7 @@
     "timeDay": 3295,
     "timeWeek": 1809,
     "timeMonth": 1625,
-    "timeYear": 2307,
+    "timeYear": 2309,
     "dailyMinutesDown": {
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -64,7 +64,7 @@
     "timeDay": 1092,
     "timeWeek": 1312,
     "timeMonth": 1308,
-    "timeYear": 1443,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2026-07-28": 0,
       "2026-07-27": 1440,
@@ -90,7 +90,7 @@
     "timeDay": 2049,
     "timeWeek": 2357,
     "timeMonth": 2340,
-    "timeYear": 2606,
+    "timeYear": 2605,
     "dailyMinutesDown": {
       "2026-07-07": 172,
       "2026-07-08": 441,
@@ -278,7 +278,7 @@
     "timeDay": 1338,
     "timeWeek": 1696,
     "timeMonth": 1720,
-    "timeYear": 2115,
+    "timeYear": 2117,
     "dailyMinutesDown": {
       "2026-07-02": 538,
       "2026-07-03": 739,
@@ -418,13 +418,13 @@
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.07%",
-    "uptimeMonth": "88.77%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "96.41%",
     "time": 4574,
     "timeDay": 2578,
     "timeWeek": 2793,
     "timeMonth": 2943,
-    "timeYear": 5194,
+    "timeYear": 5201,
     "dailyMinutesDown": {
       "2026-07-02": 238,
       "2026-07-03": 712,
@@ -496,13 +496,13 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "46.17%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "48.23%",
     "uptimeMonth": "86.63%",
     "uptimeYear": "98.89%",
-    "time": 170,
+    "time": 169,
     "timeDay": 170,
     "timeWeek": 176,
     "timeMonth": 171,
@@ -517,7 +517,8 @@
       "2026-11-19": 1142,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
-      "2026-11-16": 1187
+      "2026-11-16": 1187,
+      "2026-11-22": 1
     }
   },
   {
@@ -556,7 +557,7 @@
     "timeDay": 378,
     "timeWeek": 513,
     "timeMonth": 567,
-    "timeYear": 557,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2026-04-09": 79
     }
