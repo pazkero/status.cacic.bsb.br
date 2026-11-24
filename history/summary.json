@@ -498,10 +498,10 @@
     "slug": "yandex-inbound-mail",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.94%",
+    "uptimeDay": "89.11%",
     "uptimeWeek": "60.31%",
-    "uptimeMonth": "85.74%",
-    "uptimeYear": "98.81%",
+    "uptimeMonth": "85.38%",
+    "uptimeYear": "98.78%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 183,
@@ -519,7 +519,7 @@
       "2026-11-17": 1440,
       "2026-11-16": 1187,
       "2026-11-22": 389,
-      "2026-11-24": 1
+      "2026-11-24": 157
     }
   },
   {
