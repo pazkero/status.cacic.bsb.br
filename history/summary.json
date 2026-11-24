@@ -496,16 +496,16 @@
     "url": "mx.yandex.net",
     "icon": "https://favicons.githubusercontent.com/mail.yandex.com",
     "slug": "yandex-inbound-mail",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "60.31%",
-    "uptimeMonth": "85.38%",
-    "uptimeYear": "98.78%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "60.05%",
+    "uptimeWeek": "60.32%",
+    "uptimeMonth": "84.43%",
+    "uptimeYear": "98.70%",
     "time": 169,
-    "timeDay": 0,
-    "timeWeek": 183,
-    "timeMonth": 175,
+    "timeDay": 211,
+    "timeWeek": 186,
+    "timeMonth": 176,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2026-11-02": 121,
@@ -519,7 +519,7 @@
       "2026-11-17": 1440,
       "2026-11-16": 1187,
       "2026-11-22": 389,
-      "2026-11-24": 157
+      "2026-11-24": 575
     }
   },
   {
